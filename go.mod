@@ -7,4 +7,4 @@ require (
 	golang.org/x/text v0.14.0
 )
 
-require go.uber.org/multierr v1.10.0 // indirect
+require go.uber.org/multierr v1.11.0 // indirect
