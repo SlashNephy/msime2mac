@@ -2,7 +2,7 @@ module github.com/SlashNephy/msime2mac
 
 go 1.24.0
 
-toolchain go1.24.7
+toolchain go1.24.8
 
 require (
 	go.uber.org/zap v1.27.0
